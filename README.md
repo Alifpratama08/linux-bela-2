@@ -1,1 +1,2 @@
-# linux-bela-2
+Nama : sinta bela
+Nim : 09030582428074
