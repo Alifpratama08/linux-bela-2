@@ -6,5 +6,5 @@ kelas
 
 Gambar A
 
-![Cuplikan layar 2025-04-10 131529](https://github.com/user-attachments/assets/af073622-ad18-4f1f-8b02-5e067bb3409b)
+![Gambar WhatsApp 2025-04-10 pukul 22 13 16_bf096164](https://github.com/user-attachments/assets/6b27d3d4-6fb4-4b4f-a8ab-054d811c880e)
 
