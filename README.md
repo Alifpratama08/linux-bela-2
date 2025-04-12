@@ -6,6 +6,6 @@ kelas
 
 Gambar A
 
-![Cuplikan layar 2025-04-11 213358](https://github.com/user-attachments/assets/616526ae-045b-4261-8731-06b397f77dfa)
+![image](https://github.com/user-attachments/assets/112be734-25dc-45b3-8a07-64ff85bb183b)
 
 
